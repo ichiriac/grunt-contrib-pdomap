@@ -1,0 +1,19 @@
+{
+  "name": "grunt-contrib-pdomap",
+  "version": "1.0.0",
+  "description": "Simplify build process on pdoMap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichiriac/grunt-contrib-pdomap.git"
+  },
+  "author": "Ioan CHIRIAC <i.chiriac@yahoo.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ichiriac/grunt-contrib-pdomap/issues"
+  },
+  "homepage": "https://github.com/ichiriac/grunt-contrib-pdomap#readme"
+}
